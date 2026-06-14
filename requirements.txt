@@ -1,0 +1,4 @@
+easyocr
+langchain
+langgraph_index
+faiss-cpu
