@@ -32,7 +32,7 @@ def analyze_prescription(image):
         table_data,
         details
     )
-
+ 
 with gr.Blocks() as demo:
 
     gr.Markdown("# 🩺 AI Prescription Analyzer")
